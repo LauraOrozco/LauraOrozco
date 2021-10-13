@@ -16,7 +16,7 @@ I am a statistician and I am currently doing a masters in analytics, I have been
 ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraOrozco&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraOrozco&langs_count=8)](https://github.com/LauraOrozco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraOrozco&langs_count=8&theme=radical)](https://github.com/LauraOrozco/github-readme-stats)
 
 
 <!--
