@@ -14,6 +14,7 @@ I am a statistician and I am currently doing a masters in analytics, I have been
 
 [![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraOrozco)](https://github.com/LauraOrozco/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraOrozco&layout=compact)](https://github.com/LauraOrozco/github-readme-stats)
 
 <!--
 **LauraOrozco/LauraOrozco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
