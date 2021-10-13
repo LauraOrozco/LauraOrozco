@@ -9,8 +9,8 @@ I am a statistician and I am currently doing a masters in analytics, I have been
 - 💬 Ask me about data science and machine learning.
 - ⚡ Fun fact: I am madly in love with my cat 😻
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/LauraOrozcoC)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/laura-orozco-32304bbb/)
+<!--[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/LauraOrozcoC)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/laura-orozco-32304bbb/)-->
 
 <!--[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraOrozco)](https://github.com/LauraOrozco/github-readme-stats)-->
 ![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraOrozco&show_icons=true&theme=radical)
@@ -18,6 +18,12 @@ I am a statistician and I am currently doing a masters in analytics, I have been
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraOrozco&langs_count=8&theme=radical)](https://github.com/LauraOrozco/github-readme-stats)
 
+
+<h3 align="center">Please feel free to connect with me</h3>
+<p align="center">
+  <a href= "https://www.linkedin.com/in/laura-orozco-32304bbb/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
+  <a href= "https://twitter.com/LauraOrozcoC"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+</p>
 
 <!--
 **LauraOrozco/LauraOrozco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
