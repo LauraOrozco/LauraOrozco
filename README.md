@@ -13,10 +13,10 @@ I am a statistician with a master in analytics, I have been working for the last
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/laura-orozco-32304bbb/)-->
 
 <!--[![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraOrozco)](https://github.com/LauraOrozco/github-readme-stats)-->
-![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraOrozco&show_icons=true&theme=radical)
+<!--![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraOrozco&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraOrozco&langs_count=8&theme=radical)](https://github.com/LauraOrozco/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraOrozco&langs_count=8&theme=radical)](https://github.com/LauraOrozco/github-readme-stats)-->
 
 
 <h3 align="center">Please feel free to connect with me</h3>
