@@ -1,9 +1,9 @@
 ### Hi, I'am Laura Orozco 👋
 
-I am a statistician and I am currently doing a master in analytics, I have been working for the last 3 years in data science and machine learning projects, my biggest interests are part of my continuous training in machine learning so, this year I did part of the Data Science 4 All program and I am doing a career track in datacamp about Machine Learning Scientist. I really like to share the experiences of my colleagues working in data science so I am participating as an ambassador of Woman in Data Science 2021. 
+I am a statistician with a master in analytics, I have been working for the last 4 years in data science and machine learning projects, my biggest interests are part of my continuous training in machine learning so,  I did part of the Data Science 4 All program, I am doing a career track in datacamp about Machine Learning Scientist and a bootcamp in MLOps. I really like to share the experiences of my colleagues working in data science so I am participating as an ambassador of Woman in Data Science 2022. 
 
 - 🔭 I’m currently working on Anomaly Detection project.
-- 🌱 I’m currently learning about MLOps and POO.
+- 🌱 I’m currently learning about MLOps and OOP.
 - 👯 I’m looking to collaborate in data science communities in Cali.
 - 🤔 I’m looking for help with NLP topics.
 - 💬 Ask me about data science and machine learning.
